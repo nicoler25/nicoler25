@@ -1,27 +1,34 @@
 # Hi, I'm Nicole
 
-I'm a Certified Data Analyst with a background in business banking and experience analyzing financial and operational data to support decision-making.
+Certified Data Analyst with a background in business banking and experience analyzing financial and operational data to support decision-making.
 
-I work with SQL, Tableau, and Excel to explore datasets, identify trends, and create visual dashboards that communicate business insights.
+I use SQL, Tableau, and Excel to analyze data, identify trends, and create dashboards that communicate clear business insights.
 
 ## Skills
-SQL (PostgreSQL)  
-Tableau  
-Microsoft Excel  
-Data Cleaning  
-Data Visualization  
-Exploratory Data Analysis
+- SQL (PostgreSQL)
+- Tableau
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
 
-## Portfolio Projects
+## Featured Projects
 
-Fortune 500 Employee Benefits Analysis  
+### [Fortune 500 Employee Benefits Analysis](https://github.com/nicoler25/fortune-500-employee-benefits-analysis)
 SQL analysis exploring the relationship between employee benefits and workforce retention.
 
-SQL Joins & Subqueries Case Study  
-SQL queries demonstrating joins, subqueries, and multi-table analysis using a simulated conference dataset.
+### [VIP Conference Analytics | SQL Case Study](https://github.com/nicoler25/vip-conference-analytics)
+SQL case study analyzing conference attendance, reservations, and RSVP trends using joins and subqueries.
 
-Sales Performance Dashboard (Tableau)  
-Interactive Tableau dashboard analyzing product performance, revenue trends, and geographic sales distribution.
+### [Sales Performance Dashboard | Tableau](https://github.com/nicoler25/february-2019-sales-performance-dashboard)
+Interactive Tableau dashboard analyzing sales performance, trends, and KPI insights.
 
-## Currently Learning
-Advanced SQL analytics and dashboard design.
+## Currently Building
+- Advanced SQL analytics skills
+- Dashboard design projects
+- A portfolio of SQL and Tableau case studies
+
+## Connect With Me
+- [GitHub](https://github.com/nicoler25)
+- [LinkedIn](https://www.linkedin.com/in/nicolerei/)
+- [Tableau Public](https://public.tableau.com/app/profile/nicole.rei1978)
